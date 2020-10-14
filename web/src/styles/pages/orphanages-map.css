@@ -43,7 +43,7 @@
 }
 
 #page-map .leaflet-container {
-  z-index: -1;
+  z-index: 1;
 }
 
 #page-map .create-orphanage {
@@ -51,7 +51,7 @@
   right: 40px;
   bottom: 40px;
 
-  z-index: 0;
+  z-index: 2;
 
   width: 64px;
   height: 64px;
