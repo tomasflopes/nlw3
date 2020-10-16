@@ -8,5 +8,5 @@ export default L.icon({
   iconSize: [58, 68],
   iconAnchor: [29, 68],
 
-  popupAnchor: [0, -60]
+  popupAnchor: [170, 2]
 });
