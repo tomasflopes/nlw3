@@ -28,7 +28,12 @@ yarn start
 
 ## What I've Learnt
 
-**IN PROGRESS**
+* Use of ORM
+* Better design patter in backend
+* Use of views to refactor controllers
+* Use of Maps and Routes in ReactNative and ReactJS
+* Image upload
+* Relations in SQL database
 
 ## Show your support
 
